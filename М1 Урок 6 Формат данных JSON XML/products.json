@@ -1,0 +1,32 @@
+{
+    "products": [
+        {
+            "id": "iphone",
+            "name": "Iphone 12 Pro",
+            "price": 79990,
+            "ship_date": null,
+            "delivery_date": null
+        },
+        {
+            "id": "ryzen",
+            "name": "AMD Ryzen 5 3600",
+            "price": 11590,
+            "ship_date": null,
+            "delivery_date": null
+        },
+        {
+            "id": "philips",
+            "name": "Philips Dryer E300",
+            "price": 5990,
+            "ship_date": null,
+            "delivery_date": null
+        },
+        {
+            "id": "intel_12th",
+            "name": "Intel Core i7-12600K",
+            "price": "24590",
+            "ship_date": null,
+            "delivery_date": null
+        }
+    ]
+}
