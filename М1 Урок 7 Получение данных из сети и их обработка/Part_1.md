@@ -90,7 +90,7 @@ else:
 ```
 
 #### Пример программы:
-> ![alt](images/task_1_2b.png)
+> ![alt](images/task_1_2a.png)
 > ![alt](images/task_1_2b.png)
 
 _________________________________________
