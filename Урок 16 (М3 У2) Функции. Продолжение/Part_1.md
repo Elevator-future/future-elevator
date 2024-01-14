@@ -20,6 +20,8 @@ _________________________________________
 
 #### Пример исполняемого кода:
 ```python
+# your code here
+
 print(is_prime(1))
 print(is_prime(10))
 print(is_prime(17))
@@ -44,6 +46,8 @@ _________________________________________
 
 #### Пример исполняемого кода:
 ```python
+# your code here
+
 print(get_next_prime(6))
 print(get_next_prime(7))
 print(get_next_prime(14))
@@ -71,6 +75,8 @@ _________________________________________
 
 #### Пример исполняемого кода:
 ```python
+# your code here
+
 print(is_password_good('aabbCC11OP'))
 print(is_password_good('abC1pu'))
 ```
@@ -90,6 +96,8 @@ _________________________________________
 
 #### Пример исполняемого кода:
 ```python
+# your code here
+
 print(is_one_away('bike', 'hike'))
 print(is_one_away('water', 'wafer'))
 print(is_one_away('abcd', 'abpo'))
@@ -122,6 +130,8 @@ _________________________________________
 
 #### Пример исполняемого кода:
 ```python
+# your code here
+
 print(is_palindrome('А роза упала на лапу Азора.'))
 print(is_palindrome('Gabler Ruby - burrel bag!'))
 ```
@@ -144,13 +154,12 @@ _________________________________________
 возвращает координаты точки являющейся серединой данного отрезка.
 
 **_Примечание:_** Координаты середины отрезка с концами в точках **x1:y1** и **x2:y2** вычисляются 
-по формуле:
-
-![alt](images/task_1_6a.png)
-
+по формуле: $${x_1 + x_2} \over 2$$ $${y_1 + y_2} \over 2$$
 
 #### Пример исполняемого кода:
 ```python
+# your code here
+
 print(get_middle_point(0, 0, 10, 0))
 print(get_middle_point(1, 5, 8, 3))
 ```
@@ -179,6 +188,8 @@ _________________________________________
 
 #### Пример исполняемого кода:
 ```python
+# your code here
+
 print(get_circle(1))
 print(get_circle(1.5))
 ```
@@ -202,6 +213,8 @@ _________________________________________
 
 #### Пример исполняемого кода:
 ```python
+# your code here
+
 print(solve(1, -4, -5))
 print(solve(-2, 7, -5))
 print(solve(1, 2, 1))

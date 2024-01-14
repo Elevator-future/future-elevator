@@ -19,6 +19,8 @@ _________________________________________
 
 #### Пример исполняемого кода:
 ```python
+# your code here
+
 print(count_args())
 print(count_args(10))
 print(count_args([], (''), 'a', 12, False))
@@ -44,6 +46,8 @@ _________________________________________
 
 #### Пример исполняемого кода:
 ```python
+# your code here
+
 print(sq_sum())
 print(sq_sum(2))
 print(sq_sum(1.5, 2.5))
@@ -72,6 +76,8 @@ _________________________________________
 
 #### Пример исполняемого кода:
 ```python
+# your code here
+
 print(mean(1, 2, 3.5, 1.5))
 print(mean(2, 'test', 'ten', 8, [], False))
 ```
@@ -95,6 +101,8 @@ _________________________________________
 
 #### Пример исполняемого кода:
 ```python
+# your code here
+
 print(greet('Timur'))
 print(greet('Timur', 'Roman'))
 print(greet('Timur', 'Roman', 'Ruslan'))

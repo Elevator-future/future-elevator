@@ -18,6 +18,8 @@ _________________________________________
 
 #### Пример исполняемого кода:
 ```python
+# your code here
+
 print(convert_to_miles(1))
 print(convert_to_miles(5))
 print(convert_to_miles(10))
@@ -43,6 +45,8 @@ _________________________________________
 
 #### Пример исполняемого кода:
 ```python
+# your code here
+
 print(get_days(1))
 print(get_days(2))
 print(get_days(9))
@@ -63,6 +67,8 @@ _________________________________________
 
 #### Пример исполняемого кода:
 ```python
+# your code here
+
 print(get_factors(1))
 print(get_factors(5))
 print(get_factors(10))
@@ -86,6 +92,8 @@ _________________________________________
 
 #### Пример исполняемого кода:
 ```python
+# your code here
+
 print(number_of_factors(1))
 print(number_of_factors(5))
 print(number_of_factors(10))
@@ -116,6 +124,8 @@ _________________________________________
 
 #### Пример исполняемого кода:
 ```python
+# your code here
+
 print(find_all('abcdabcaaa', 'a'))
 print(find_all('abcadbcaaa', 'e'))
 print(find_all('abcadbcaaa', 'd'))
@@ -141,6 +151,8 @@ _________________________________________
 
 #### Пример исполняемого кода:
 ```python
+# your code here
+
 print(merge([1, 2, 3], [5, 6, 7, 8]))
 print(merge([1, 7, 10, 16], [5, 6, 13, 20]))
 ```
